@@ -41,11 +41,10 @@
 <h3 align="left">💡 About Me</h3>
 
 - 🎤 President of The Literary Club (TLC), FAST NUCES Karachi  
-- 🏆 National-Level Debater & Declamation Champion  
-- 📌 Organizer of TEDx FAST NUCES Karachi  
+- 🏆 National-Level Declamation Champion  
+- 📌 Independently organized TED Event Organizer  
 - 🤖 Passionate about AI, ML, and building scalable tech solutions  
-- 🎨 Designer of book covers & digital content  
-
+- 📚 Ranked among the Top 20 position holders of the Board of Secondary and Intermediate Education 2022
 ###
 
 <div align="center">
