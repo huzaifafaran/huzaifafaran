@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">SWE FAST '26 | Public Speaker | AI | ML | Java | React | Tech Enthusiast</h3>
+<h3 align="center">SWE FAST '26 | Public Speaker | AI | Full Stack Developer | Java | React | Tech Enthusiast</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=huzaifa-faran&color=blueviolet&style=flat" alt="Profile views" />
